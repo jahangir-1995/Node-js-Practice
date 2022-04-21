@@ -1,0 +1,25 @@
+{
+  "name": "my-first-node",
+  "version": "1.0.0",
+  "description": "first node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahangir-1995/Node-js-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahangir-1995/Node-js-Practice/issues"
+  },
+  "homepage": "https://github.com/jahangir-1995/Node-js-Practice#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
